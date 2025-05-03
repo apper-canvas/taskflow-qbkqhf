@@ -55,7 +55,7 @@ const Home = () => {
                 animate={{ y: [0, -10, 0] }}
                 transition={{ duration: 1.5, ease: "easeInOut" }}
               >
-                TaskFlow
+                FlowTask
               </motion.h1>
             </motion.div>
           </motion.div>
@@ -78,7 +78,7 @@ const Home = () => {
                 <ListTodoIcon className="w-8 h-8" />
               </motion.div>
               <h1 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                TaskFlow
+                FlowTask
               </h1>
             </div>
             
@@ -108,7 +108,7 @@ const Home = () => {
           className="text-center mt-12 pt-6 border-t border-surface-200 dark:border-surface-700"
         >
           <p className="text-sm text-surface-500 dark:text-surface-400">
-            TaskFlow &copy; {new Date().getFullYear()} • Get things done, one task at a time
+            FlowTask &copy; {new Date().getFullYear()} • Get things done, one task at a time
           </p>
         </motion.footer>
       </div>
