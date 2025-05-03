@@ -54,7 +54,7 @@ const NotFound = () => {
         </div>
         
         <p className="text-sm text-surface-500 dark:text-surface-400">
-          Need help? Contact support@taskflow.com
+          Need help? Contact support@todolist.com
         </p>
       </motion.div>
     </div>
