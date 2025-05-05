@@ -54,7 +54,7 @@ const Home = () => {
                 animate={{ y: [0, -10, 0] }}
                 transition={{ duration: 1.5, ease: "easeInOut" }}
               >
-                Todo Lister......
+                Todo Lister
               </motion.h1>
             </motion.div>
           </motion.div>
@@ -77,7 +77,7 @@ const Home = () => {
                 <ListTodoIcon className="w-8 h-8" />
               </motion.div>
               <h1 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                Todo Listerrrrrrrrr
+                Todo Flow
               </h1>
             </div>
             
