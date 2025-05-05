@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import MainFeature from '../components/MainFeature';
 import getIcon from '../utils/iconUtils';
 
 const Home = () => {
