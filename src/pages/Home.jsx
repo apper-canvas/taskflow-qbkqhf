@@ -87,7 +87,7 @@ const Home = () => {
               whileHover={{ scale: 1.02 }}
             >
               <CheckCircleIcon className="h-4 w-4 inline-block mr-1 text-primary" />
-              <span>Organize your day, elevate your productivity</span>
+              <span>Organize your day</span>
             </motion.p>
           </motion.div>
         </header>
