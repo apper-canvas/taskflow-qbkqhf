@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import MainFeature from '../components/MainFeature';
+            Todo Flow Pro &copy; {new Date().getFullYear()} • Get things done
 import getIcon from '../utils/iconUtils';
 
 const Home = () => {
