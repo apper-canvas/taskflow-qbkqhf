@@ -78,7 +78,7 @@ const Home = () => {
                 <ListTodoIcon className="w-8 h-8" />
               </motion.div>
               <h1 className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                Todo List
+                Todo Lister.....
               </h1>
             </div>
             
