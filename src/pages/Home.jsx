@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-            TaskFlow &copy; {new Date().getFullYear()} • Get things done
 import MainFeature from '../components/MainFeature';
 import getIcon from '../utils/iconUtils';
 
