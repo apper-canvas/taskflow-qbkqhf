@@ -108,7 +108,7 @@ const Home = () => {
           className="text-center mt-12 pt-6 border-t border-surface-200 dark:border-surface-700"
         >
           <p className="text-sm text-surface-500 dark:text-surface-400">
-            Todo List &copy; {new Date().getFullYear()} • Get things done, one task at a time
+            Todo List &copy; {new Date().getFullYear()} • Get things done
           </p>
         </motion.footer>
       </div>
