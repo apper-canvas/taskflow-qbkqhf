@@ -55,7 +55,7 @@ const Home = () => {
                 animate={{ y: [0, -10, 0] }}
                 transition={{ duration: 1.5, ease: "easeInOut" }}
               >
-                Todo List
+                Todo Lister......
               </motion.h1>
             </motion.div>
           </motion.div>
